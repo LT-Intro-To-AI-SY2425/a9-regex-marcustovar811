@@ -5,6 +5,8 @@ import re
 # you desire to get a better understanding of regex.  There is a separate answer file attached
 # so you can check your work.  Have Fun!!
 
+# reminder: do after AP exams 
+
 # problem 1
 # should extract a match where the first group is the username, the second group is the domain
 # and the third group is the top-level domain (com, edu, org, etc.)
